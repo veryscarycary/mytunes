@@ -6,7 +6,7 @@ var SongQueueEntryView = Backbone.View.extend({
 
   // }
   initialize: function () {
-    this.trigger('render', this);
+    // this.trigger('render', this);
   }
 });
 
